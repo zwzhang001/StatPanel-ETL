@@ -1,0 +1,7 @@
+﻿ProvinceName,CityName,no,Year,Index,Value,Unit,Source,ExtractStatus,MatchCount,MatchedRule,RawFile,Note
+ProvinceA,Alpha,1001,2020,GDP,100,billion yuan,Yearbook,matched,1,index=GDP;unit=billion yuan;source=any:*,,
+ProvinceA,Alpha,1001,2021,GDP,120,billion yuan,Manual supplement,filled,0,index=GDP;unit=billion yuan;source=any:*,,Filled by supplement
+ProvinceA,Alpha,1001,2022,GDP,140,billion yuan,Yearbook,matched,1,index=GDP;unit=billion yuan;source=any:*,,
+ProvinceB,Beta,1002,2020,GDP,200,billion yuan,Yearbook,matched,1,index=GDP;unit=billion yuan;source=any:*,,
+ProvinceB,Beta,1002,2021,GDP,220,billion yuan,Yearbook,matched,1,index=GDP;unit=billion yuan;source=any:*,,
+ProvinceB,Beta,1002,2022,GDP,240,billion yuan,Yearbook,matched,1,index=GDP;unit=billion yuan;source=any:*,,

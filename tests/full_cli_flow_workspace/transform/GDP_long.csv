@@ -1,0 +1,7 @@
+﻿ProvinceName,CityName,no,Index,Year,Value
+ProvinceA,Alpha,1001,GDP,2020,100
+ProvinceA,Alpha,1001,GDP,2021,120
+ProvinceA,Alpha,1001,GDP,2022,140
+ProvinceB,Beta,1002,GDP,2020,200
+ProvinceB,Beta,1002,GDP,2021,220
+ProvinceB,Beta,1002,GDP,2022,240
