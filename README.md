@@ -212,12 +212,6 @@ python test/test_full_cli_flow.py
 python test/test_gui_smoke.py
 ```
 
-## Citation
-
-If you use this software, please cite:
-
-Zhang et al. (2026). StatPanel-ETL: Statistical Data Extraction, Transformation, and Loading Toolkit.
-
 ## License
 
 MIT License
