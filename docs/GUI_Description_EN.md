@@ -1,4 +1,4 @@
-# StatPanel-ETL Statistical Data Extraction, Transformation, and Loading Software Interface Design Description (Software Copyright Version V1)
+# StatPanel-ETL Interface Design Description 
 
 ## 1. Overall Interface Description
 
